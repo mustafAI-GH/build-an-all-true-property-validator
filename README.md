@@ -1,0 +1,1 @@
+# build-an-all-true-property-validator
